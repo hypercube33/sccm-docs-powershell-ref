@@ -992,6 +992,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequireUserInteraction
+Including without passing any parameters sets the 'Allow users to view and interact with the program installation' setting under User Experience
 
 ```yaml
 Type: Boolean
